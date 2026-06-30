@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0072/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲宫法語序别九萬形皆有弊惟道獨不朽人之在天地間斯道之寄也有命焉有性焉天命之謂性率性之謂道也天下無二道豈有二性命哉危徴精一見於大舜之戒禹恒性習性明性節性見於湯尹周公之格言夫子賛易曰各正性命則性與命並言之矣然觀夫子罕言命與仁而性與天道不可得聞性命之學非深造者不能貫通也至曾思盂之相傳性命之學愈著而愈詳儒者以養性率性爲先知命立命爲務故功極於賛化育參天地彼道釋明心見性修命復命至於妙有眞空與道合眞道釋性命之學亦不能泯滅也後世流弊儒以文章沽爵禄道釋以禍福誘愚庸躬行踐履之間鮮有出於性命之正者況三綱五常道之大原天命民彝庸有未盡豈所以爲道哉聖明之朝作之君師吾儒之道尊勸益加道釋二氏不廢崇奬期天下咸歸於道泰和盛治家稷契而人臯陶無上等正覺釋老中之功用於是談性命者多矣然而未得其歸一之要余倣之經傳類而編之吾儒之道由正心誠意而得佛老之道亦由正心誠意而得也人欲盡淨天理流行即一念不生全體自見之大機括大而化聖而神捨是非吾所謂道非吾所謂性命名其集曰雲宫法語道書謂偃息雲宫黃房之内即心齋坐忘之時究竟斯道庶乎瞻前忽後無時不然仰不愧而俯不怍豈徒虛無空寂之謂性命云大德戊戌秋績水虛夷子靜安汪可孫序
+  hash: sha256:54eb6d6aace01653b8dfd620d628ad9f6b9bf327d9955ecdd01de6f96e7a49b8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0072_HFL_000-001a, image: hfl/0725/0725-128.png}
+metadata:
+  title: 雲宮法語
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:03:07.811477'
+  source:
+    repository: kanripo
+    path: KR5d0072/KR5d0072_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:f5ba176d9c4879e66d4c1e41ba4c6c14c1e257615b7ab6f9aed3412611911b75
